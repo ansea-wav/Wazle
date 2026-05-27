@@ -1,0 +1,16 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local properties (contains SDK path, don't share)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+
+# Keystore
+*.jks
+*.keystore
