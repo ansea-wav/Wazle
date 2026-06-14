@@ -8,7 +8,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)]()
-[![Version](https://img.shields.io/badge/Version-beta%20v0.1-orange.svg)]()
+[![Version](https://img.shields.io/badge/Version-beta%20v0.2-orange.svg)]()
 [![Made by netals](https://img.shields.io/badge/Made%20by-netals-purple.svg)]()
 
 </div>
@@ -41,9 +41,9 @@ With Antarac, you get a clean, distraction-free experience tailored for managing
 
 ## Download
 
-> **Beta v0.1.** Internal testing release. Not yet publicly distributed.
+> **Beta v0.2.** Internal testing release. Added Music Player & Notification Engine.
 
-[Download APK (Beta v0.1)](./Antrac-beta-v0.1.apk)
+[Download APK (Beta v0.2)](./Antrac-beta-v0.2.apk)
 
 ---
 
@@ -101,9 +101,9 @@ Dengan Antarac, kamu mendapatkan pengalaman yang bersih, imersif, dan bebas gang
 
 ## Unduh
 
-> **Beta v0.1.** Rilis untuk pengujian internal. Belum didistribusikan ke publik.
+> **Beta v0.2.** Rilis untuk pengujian internal. Menambahkan Music Player & Notifikasi.
 
-[Unduh APK (Beta v0.1)](./Antrac-beta-v0.1.apk)
+[Unduh APK (Beta v0.2)](./Antrac-beta-v0.2.apk)
 
 ---
 
