@@ -42,7 +42,7 @@ With Wazle, you are no longer chained to a desktop to manage your bots. We have 
 
 > **Beta v0.2.** The journey continues. Now featuring a Focus Music Player & a 00:00 Notification Engine.
 
-[Download Wazle APK (Beta v0.2)](./Antrac-beta-v0.2.apk)
+[Download Wazle APK (Beta v0.2)](./Wazle-beta-v0.2.apk)
 
 *(Note: We are in the process of renaming our core files, but the magic inside remains the same!)*
 
@@ -103,7 +103,7 @@ Kini, Anda tidak perlu lagi terpaku di depan layar komputer. Kami merancang peng
 
 > **Beta v0.2.** Perjalanan berlanjut. Kini dilengkapi dengan Focus Music Player & Mesin Notifikasi 00:00.
 
-[Unduh Wazle APK (Beta v0.2)](./Antrac-beta-v0.2.apk)
+[Unduh Wazle APK (Beta v0.2)](./Wazle-beta-v0.2.apk)
 
 *(Catatan: Kami sedang dalam proses mengubah nama file inti kami, namun keajaiban di dalamnya tetap sama!)*
 
