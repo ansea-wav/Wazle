@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png?v=2" width="120" alt="Wazle Logo" />
+<img src="assets/logo.png?v=3" width="120" alt="Wazle Logo" />
 
 # Wazle
 
