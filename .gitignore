@@ -1,0 +1,17 @@
+# Ignore Android source code
+app/
+.github/
+build.gradle
+settings.gradle
+
+# Android Studio / Gradle ignores
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
