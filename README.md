@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="120" alt="Wazle Logo" />
+<img src="assets/logo.png?v=2" width="120" alt="Wazle Logo" />
 
 # Wazle
 
@@ -34,13 +34,13 @@ With Wazle, you are no longer chained to a desktop to manage your bots. We have 
 - **File Explorer Magic:** Seamlessly browse and manage files linked to your bot's brain, powered silently by Google Drive.
 - **The Group Overseer:** Keep a watchful eye over your WhatsApp group members, statistics, and invitation links without breaking a sweat.
 - **Pulse of the Server:** Feel the heartbeat of your VPS with real-time CPU, RAM, and uptime tracking. 
-- **Focus & Flow:** Immersive, full-screen, and distraction-free interface, complete with a built-in Focus Music player to keep you in the zone.
+- **Focus & Flow:** Immersive, full-screen, and distraction-free interface, complete with a powerful **Spotify/YouTube Music Radar** that detects what you're listening to.
 
 ---
 
 ## Experience the Magic
 
-> **Beta v0.2.** The journey continues. Now featuring a Focus Music Player & a 00:00 Notification Engine.
+> **Beta v0.2.** The journey continues. Now featuring an active Music Radar & a 00:00 Midnight Notification Engine.
 
 [Download Wazle APK (Beta v0.2)](./Wazle-beta-v0.2.apk)
 
@@ -95,13 +95,13 @@ Kini, Anda tidak perlu lagi terpaku di depan layar komputer. Kami merancang peng
 - **Keajaiban File Explorer:** Akses dan kelola file yang terhubung ke otak bot Anda secara mulus, didukung oleh kekuatan Google Drive.
 - **Pengawas Grup (Group Manager):** Pantau anggota grup WhatsApp, statistik, dan tautan undangan tanpa harus memeras keringat.
 - **Detak Jantung Server:** Rasakan denyut nadi VPS Anda dengan pemantauan CPU, RAM, dan waktu aktif (uptime) secara real-time.
-- **Fokus & Mengalir:** Antarmuka layar penuh yang bebas gangguan, lengkap dengan pemutar *Focus Music* bawaan untuk menemani Anda bekerja.
+- **Fokus & Mengalir:** Antarmuka layar penuh yang bebas gangguan, lengkap dengan **Radar Musik Spotify/YouTube** bertenaga tinggi yang mendeteksi lagu Anda.
 
 ---
 
 ## Rasakan Keajaibannya
 
-> **Beta v0.2.** Perjalanan berlanjut. Kini dilengkapi dengan Focus Music Player & Mesin Notifikasi 00:00.
+> **Beta v0.2.** Perjalanan berlanjut. Kini dilengkapi dengan Mesin Radar Musik Aktif & Mesin Notifikasi 00:00.
 
 [Unduh Wazle APK (Beta v0.2)](./Wazle-beta-v0.2.apk)
 
