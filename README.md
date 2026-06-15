@@ -23,7 +23,7 @@ Once known as Netals (and briefly stepping into the world as Antarac), we realiz
 
 Wazle isn't just an application; it's the culmination of countless hours of imagining a better way for managers, business owners, and community leaders to interact with their digital ecosystems. It is your bridge, your command center, and your silent partner that works tirelessly in the background.
 
-With Wazle, you are no longer chained to a desktop to manage your bots. We have crafted a clean, distraction-free mobile experience where you can craft auto-responses, explore files, check your server's pulse, and command your WhatsApp empire—all from the palm of your hand.
+With Wazle, you are no longer chained to a desktop to manage your bots. We have crafted a clean, distraction-free mobile experience where you can craft auto-responses, explore files, check your server's pulse, and command your WhatsApp empire. all from the palm of your hand.
 
 ---
 
@@ -84,7 +84,7 @@ Dulu, Anda mungkin mengenal kami sebagai Netals, atau bahkan sempat menyapa kami
 
 Wazle bukanlah sekadar aplikasi. Ini adalah wujud dari dedikasi tanpa henti untuk menciptakan cara yang lebih baik bagi para manajer, pemilik bisnis, dan pemimpin komunitas dalam mengelola ekosistem digital mereka. Wazle adalah jembatan Anda, pusat komando Anda, dan rekan kerja diam-diam yang tak kenal lelah beroperasi di balik layar.
 
-Kini, Anda tidak perlu lagi terpaku di depan layar komputer. Kami merancang pengalaman mobile yang bersih, imersif, dan bebas gangguan. Di Wazle, Anda bisa meracik balasan otomatis, menjelajahi file, memeriksa detak jantung server Anda, dan memimpin kerajaan WhatsApp Anda—semuanya hanya dari genggaman tangan.
+Kini, Anda tidak perlu lagi terpaku di depan layar komputer. Kami merancang pengalaman mobile yang bersih, imersif, dan bebas gangguan. Di Wazle, Anda bisa meracik balasan otomatis, menjelajahi file, memeriksa detak jantung server Anda, dan memimpin kerajaan WhatsApp Anda. semuanya hanya dari genggaman tangan.
 
 ---
 
